@@ -1,0 +1,50 @@
+
+body{
+	background: url(../img/habib.jpg);  background-repeat: no-repeat;
+	background-size: cover;
+	}
+	.container{
+		width: 1140px;
+		margin: 40px auto;
+	}
+	.login-section {
+    background: #00800061;
+    padding: 30px;
+	}
+	
+	.login-section img {
+    width: 100px;
+    margin: 0px auto;
+    display: block;
+    }
+	.login-section h2 {
+    text-align: center;
+    font-size: 50px;
+    color: maroon;
+    text-transform: uppercase;
+	}
+	.form-control{
+	width:98%;
+	height:32px;
+	margin-bottom:10px;
+	padding: 5px;
+	}
+.login-btn {
+    font-size: 27px;
+    padding: 10px;
+    margin: auto;
+    display: block;
+    color: #001c80;
+    text-transform: uppercase;
+    background-color: white;
+    border: none;
+    transition: 0.2 ease-in-out;
+}
+.login-btn:hover{
+	cursor:pointer;
+	box-shadow: 3px 3px 7px;
+	color: red;
+}
+a{
+	font-size: 30px;color: red;
+}

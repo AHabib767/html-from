@@ -1,0 +1,45 @@
+body{
+	background: url(../img/sun.jpg);  background-repeat: no-repeat;
+	background-size: cover;
+	}
+	.container{
+		width: 1140px;
+		margin: 40px auto;
+	}
+	.login-section {
+    padding: 30px
+	}
+	.login-section h2 {
+    text-align: center;
+    font-size: 50px;
+    color:green;
+    text-transform: uppercase;
+	}
+	.login-section i{
+		color: white;text-align: center;
+		margin: auto;display: block;
+	}
+	.form-control{
+	width:98%;
+	height:25px;
+	margin-bottom:20px;
+	padding: 5px;
+	}
+	.reset-btn {
+    font-size: 27px;
+    padding: 10px;
+    margin: auto;
+    display: block;
+    color: red;
+    text-transform: uppercase;
+    background-color: green;
+    border: none;
+	}
+	.reset-btn:hover{
+	cursor:pointer;
+	box-shadow: 6px 6px 9px;
+	color: yellow;
+	}
+	a{
+		color: red;
+	}
